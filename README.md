@@ -18,8 +18,10 @@ replace()	method a string for a specified value, and returns a new string where 
 replaceAll()	Replaces each substring of this string that matches the given regular expression with the given replacement.
 offsetByCodePoints()	Returns the index within this String that is offset from the given index by codePointOffset code points.
 ![javamethod3](https://user-images.githubusercontent.com/116806049/202096296-2bbb1610-7fb0-455a-a53f-c52fc46ca383.PNG)
-![javamethod4](https://user-images.githubusercontent.com/116806049/202096376-09a30a81-5b33-40c5-ab5e-232af17a92df.PNG)
+![javamethod4](https://user-images.githubusercontent.com/116806049/202096376-09a30a81-5b33-40c5-ab5e-232af17a92df.PNG)                                                    
+I have declared the integer value,but i have give me String and byte value .so the error is input mismachexception error.
 ![javamethod](https://user-images.githubusercontent.com/116806049/202096121-f7576169-cbf8-4d64-b890-5b37e8d8b01a.PNG)
+I have declared the fixed number length, i have give me highest number of length.so the error is indexoutof bounds exception error
 ![java method2](https://user-images.githubusercontent.com/116806049/202096221-5a936587-caf3-4612-9c3e-6827004d5247.PNG)
 
 
